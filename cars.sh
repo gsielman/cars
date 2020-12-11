@@ -15,12 +15,13 @@ case $number in
 		c = "${y}:{b}:{m}"
 		echo "${c}"
 		$cat 1 >> My_old_cars
-		
+		;;
 	2)
 		source My_old_cars
-		
+		;;
 	3)
 		echo "Goodbye."
 		break
+		;;
 esac
 
