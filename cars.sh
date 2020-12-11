@@ -15,10 +15,11 @@ case $number in
 		c = "${y}:{b}:{m}"
 		echo "${c}"
 		$cat 1 >> My_old_cars
-case $number in
+		;;
 	2)
 		source My_old_cars
-case $number in
+		;;
 	3)
 		echo "Goodbye."
-		break
+		break;;
+esac
