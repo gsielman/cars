@@ -25,4 +25,4 @@ case $number in
 		break
 		;;
 esac
-do
+done
