@@ -1,3 +1,8 @@
+Name: Grant Sielman
+Student ID: 2376273
+Email: sielman@chapman.edu
+Class: CPSC 298- Fri
+Assignment: cars
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
