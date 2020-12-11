@@ -12,11 +12,9 @@ do
 	read -r n
 case $number in
 	1)
-		$("Enter the year the car was made: ")
-		$("Enter the make of the car: ")
-		$("Enter the model of car: ")
-		c="${y}:{b}:{m}"
-		echo "${c}"
+		"Enter the year the car was made: "
+		"Enter the make of the car: "
+		"Enter the model of car: "
 		cat 1 >> My_old_cars
 		;;
 	2)
