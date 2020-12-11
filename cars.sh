@@ -5,7 +5,7 @@ chmod 755
 echo "Enter a number 1-3"
 n = 1
 number = 1, 2, 3
-while [ "$n" ! a \> b "number" ]
+while [ "$n" ! a \> b "number" "]"
 do
 	echo "Enter a 1 to add a new car to the list"
 	echo "Enter a 2 to display the list of cars"
