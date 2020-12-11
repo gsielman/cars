@@ -24,4 +24,4 @@ case $number in
 		echo "Goodbye."
 		break;;
 esac
-do
+done
