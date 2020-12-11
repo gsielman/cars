@@ -4,6 +4,7 @@
 chmod 755
 echo "Enter a number 1-3"
 while [ "$n" -le "number" ]
+do
 	echo "Enter a 1 to add a new car to the list"
 	echo "Enter a 2 to display the list of cars"
 	echo "Enter a 3 to quit the program"
@@ -23,3 +24,4 @@ case $number in
 		echo "Goodbye."
 		break;;
 esac
+do
