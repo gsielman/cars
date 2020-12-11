@@ -10,7 +10,7 @@ do
 	echo "Enter a 2 to display the list of cars"
 	echo "Enter a 3 to quit the program"
 	read -r n
-case $number in
+case $n in
 	1)
 		"Enter the year the car was made: "
 		"Enter the make of the car: "
